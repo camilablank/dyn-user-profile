@@ -1,0 +1,34 @@
+{
+    "joyful": "positive_high",
+    "grateful": "positive_high",
+  
+    "hopeful": "positive_low",
+    "optimistic": "positive_low",
+    "relieved": "positive_low",
+    "content": "positive_low",
+    "curious": "positive_low",
+    "thoughtful": "positive_low",
+    "determined": "positive_low",
+    "resolute": "positive_low",
+    "planned": "positive_low",
+  
+    "calm": "calm_steady",
+    "stable": "calm_steady",
+    "steady": "calm_steady",
+    "neutral": "calm_steady",
+  
+    "anxious": "worried",
+    "nervous": "worried",
+    "concerned": "worried",
+    "uncertain": "worried",
+    "conflicted": "worried",
+    "overwhelmed": "worried",
+  
+    "angry": "neg_high",
+    "frustrated": "neg_high",
+
+    "sad": "neg_low",
+    "resigned": "neg_low"
+
+  }
+  
