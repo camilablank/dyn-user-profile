@@ -1,4 +1,4 @@
-# *This Is So You*: Do LLMs Form Dynamic Profiles of User Emotions?
+# This Is *So You*: Do LLMs Form Dynamic Profiles of User Emotions?
 
 ## What problem am I trying to solve?
 LLMs form detailed profiles of user information that persist across turns in a conversation, currently demonstrated for static traits such as age, gender, and socioeconomic status (Chen et. al., 2024)1. Inspired by this result, I explored whether LLMs also encode dynamic profiles of users’ emotions, i.e. turn-by-turn predictions of the user’s current emotion, and whether these can be manipulated to causally shift the model’s tone and content. My research focused on the following questions: 1) Do the internal states of LLMs contain promptly-updated information about users’ current emotions? 2) If so, can we causally steer LLMs based on these emotions?
